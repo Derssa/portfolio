@@ -42,13 +42,13 @@ const Footer = () => {
 
   return (
     <>
-      <h2 className="head-text">Chat with me</h2>
+      <h2 className="head-text">Chat with us</h2>
 
       <div className="app__footer-cards">
         <div className="app__footer-card ">
           <img src={images.email} alt="email" />
           <a href="mailto:youssefmoinou@gmail.com" className="p-text">
-            youssefmoinou@gmail.com
+            contact@derssa.com
           </a>
         </div>
         <div className="app__footer-card">
@@ -105,5 +105,5 @@ const Footer = () => {
 export default AppWrap(
   MotionWrap(Footer, "app__footer"),
   "contact",
-  "app__whitebg"
+  "app__primarybg_resume"
 );

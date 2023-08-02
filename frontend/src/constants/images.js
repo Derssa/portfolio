@@ -19,6 +19,9 @@ import next from "../assets/next.png";
 import sass from "../assets/sass.png";
 import typescript from "../assets/typescript.png";
 import vue from "../assets/vue.png";
+import www from "../assets/www.png";
+import android from "../assets/android.png";
+import ssl from "../assets/ssl.png";
 import resume from "../assets/ym-resume-english.pdf";
 
 import about01 from "../assets/about01.png";
@@ -58,6 +61,9 @@ export default {
   sass,
   typescript,
   vue,
+  www,
+  android,
+  ssl,
   about01,
   about02,
   about03,
