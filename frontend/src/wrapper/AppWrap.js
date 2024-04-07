@@ -10,7 +10,7 @@ const AppWrap = (Component, idName, classNames) =>
           <Component />
 
           <div className="copyright">
-            <p className="p-text">@{(new Date().getFullYear())} DERSSA</p>
+            <p className="p-text">@{(new Date().getFullYear())} YOUSSEF MOINOU</p>
             <p className="p-text">All rights reserved</p>
           </div>
         </div>
